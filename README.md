@@ -3,9 +3,9 @@
 
 Sentinel is an all-powerful toolset for Idapay.
 
-Sentinel is an autonomous agent for persisting, processing and automating Idapay V12.2 governance objects and tasks, and for expanded functions in upcoming releases.
+Sentinel is an autonomous agent for persisting, processing and automating Idapay V12.1 governance objects and tasks, and for expanded functions in upcoming releases.
 
-Sentinel is implemented as a Python application that binds to a local version 12.2 idapayd instance on each Idapay V12.2 Masternode.
+Sentinel is implemented as a Python application that binds to a local version 12.1 idapayd instance on each Idapay V12.1 Masternode.
 
 This guide covers installing Sentinel onto an existing 12.2 Masternode in Ubuntu 14.04 / 16.04.
 
